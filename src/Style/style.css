@@ -1,0 +1,24 @@
+.book-search{
+    text-align: center;
+    margin-top: 20px;
+}
+.search-input{
+    display:flex;
+    justify-content: center;
+}
+#input{
+    width: 50%;
+    height: 30px;
+}
+#img{
+    height: 26px;
+}
+#book-img{
+    height: 30vh;
+    margin-right: 20px;
+}
+.book-div{
+    margin-top: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
